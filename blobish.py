@@ -1,8 +1,8 @@
 """
-	Read RSS feeds for 5 news sources
+	Read RSS feeds for 11 news sources
 	For each feed:
 		Calc sentiment polarity
-		print summary ordered by polarity like
+		print summary ranked by polarity
 
 		Source 	Polarity
 		------	--------
